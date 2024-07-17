@@ -25,7 +25,7 @@
 
 <br>
 
-### Connect with me: 
+## Connect with me: 
 <br>
 <p align="left">
 <a href="https://codepen.io/sarvjyoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="50" width="50" /></a>
@@ -39,7 +39,7 @@
 
 <br>
 
-### Languages and Tools:
+## Languages and Tools:
 <br>
 
 <p align="left"> 
