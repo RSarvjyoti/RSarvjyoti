@@ -3,10 +3,10 @@
 <h1 align="center">Hi, I'm Sarvjyoti
    <img width="50px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sarvjyoti GIF" />
 </h1>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <h3 align="justify" >I'm a passionate MERN stack developer with a foundation in data structures and algorithms, having solved over 100 problems on LeetCode and more than 700 on the Masai OJ platform. I thrive in collaborative team environments and am always eager to contribute innovative ideas.</h3>
 <br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsarvjyoti&label=Profile%20views&color=0e75b6&style=flat" alt="rsarvjyoti" /> </p>
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-## Connect with me: <img width="30px" height="30px" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" />
+## Connect with me: <img width="70px" height="40px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" />
 <br>
 <p align="left">
 <a href="https://codepen.io/sarvjyoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="50" width="50" /></a>
