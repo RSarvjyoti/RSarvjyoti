@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
-<h1 align="center">Hi 👋, I'm Sarvjyoti</h1>
-<h3 align="center">I'm a passionate MERN stack developer with a strong foundation in data structures and algorithms, having solved over 100 problems on LeetCode and more than 700 on the Masai OJ platform. I thrive in collaborative team environments and am always eager to contribute innovative ideas.</h3>
+<h1 align="center">Hey 👋, I'm Sarvjyoti</h1>
+<h3 align="center">I'm a passionate MERN stack developer with a foundation in data structures and algorithms, having solved over 100 problems on LeetCode and more than 700 on the Masai OJ platform. I thrive in collaborative team environments and am always eager to contribute innovative ideas.</h3>
 <img align="right" width="400px" src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEyMjU3MDMsIm5iZiI6MTcyMTIyNTQwMywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE3VDE0MTAwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhYzFiYjQ0MDA2MWFhZGUzNzVmNDNiZDM1ZDM0ZmM0ZDRlOTYzZjVkMjBhODc1NTM0YThkNzc3MWM4NTljMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0CmUFUpMjE7lnvqXbSKOtTmuW7vpCCn1p9JWlr6gs0s">
 
 
