@@ -16,7 +16,6 @@
 <p align="left"> <a href="https://twitter.com/sarvjyoti4" target="blank"><img src="https://img.shields.io/twitter/follow/sarvjyoti4?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
 <br>
 
-
 - 🌱 I’m currently learning **Node.js**
 - 💬 Ask me about **MERN, Java**
 - 📫 How to reach me: **sarvjyoti64@gmail.com**
