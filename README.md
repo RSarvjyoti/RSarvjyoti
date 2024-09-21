@@ -4,7 +4,7 @@
    <img width="50px" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Sarvjyoti GIF" />
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<h3 align="justify" >I'm a passionate MERN stack developer with a foundation in data structures and algorithms, having solved over 100 problems on LeetCode and more than 700 on the Masai OJ platform. I thrive in collaborative team environments and am always eager to contribute innovative ideas.</h3>
+<h3 align="justify" >I'm a passionate MERN stack developer with multiple project and a foundation in data structures and algorithms, having solved over 100 problems on LeetCode and more than 700 on the Masai OJ platform. I thrive in collaborative team environments and am always eager to contribute innovative ideas.</h3>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsarvjyoti&label=Profile%20views&color=0e75b6&style=flat" alt="rsarvjyoti" /> </p>
