@@ -21,7 +21,8 @@
 - 🌱 I’m currently learning **Node.js**
 - 💬 Ask me about **MERN, Java**
 - 📫 How to reach me: **sarvjyoti64@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1xeSisGeJbJLuBpQwKY7MpvTFhUUxI4z8/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://github.com/user-attachments/files/19347550/sarvjyoti.2.pdf)
+
 
 <br>
 
