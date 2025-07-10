@@ -27,7 +27,9 @@
 - 🌱 Currently enhancing my skills in **Node.js microservices** and **AI-powered web applications**
 - 💬 Ask me about **MERN stack, Node.js, Java**
 - 📫 How to reach me: **sarvjyoti64@gmail.com**
-- 📄 [View my resume](https://github.com/user-attachments/files/19347550/sarvjyoti.2.pdf)
+- 📄 [View my resume]([Sarvjyoti.pdf](https://github.com/user-attachments/files/21159471/Sarvjyoti.pdf)
+)
+
 
 ---
 
